@@ -1,0 +1,52 @@
+c:\users\wahyu\documents\visual studio 2015\Projects\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.exe.config
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.vbprojResolveAssemblyReference.cache
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormAnggota.resources
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormBuku.resources
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormLogin.resources
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormMenuUtama.resources
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormPeminjaman.resources
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormPengembalian.resources
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormPetugas.resources
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Resources.resources
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.GenerateResource.Cache
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.xml
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.xml
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+C:\Users\wahyu\Documents\Visual Studio 2015\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+D:\proyek database\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.exe.config
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.xml
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+D:\proyek database\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+D:\proyek database\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+D:\proyek database\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.xml
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.vbprojResolveAssemblyReference.cache
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormAnggota.resources
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormBuku.resources
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormLogin.resources
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormMenuUtama.resources
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormPeminjaman.resources
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormPengembalian.resources
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.FormPetugas.resources
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Resources.resources
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.GenerateResource.Cache
+D:\proyek database\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form1.resources
+D:\proyek database\PAD Perpus\WindowsApplication17\bin\Debug\WindowsApplication17.exe.config
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.xml
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+D:\proyek database\PAD Perpus\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+D:\proyek database\PAD Perpus\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+D:\proyek database\PAD Perpus\WindowsApplication17\bin\Debug\WindowsApplication17.xml
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.vbprojResolveAssemblyReference.cache
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.FormAnggota.resources
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.FormBuku.resources
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.FormLogin.resources
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.FormMenuUtama.resources
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.FormPeminjaman.resources
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.FormPengembalian.resources
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.FormPetugas.resources
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.Resources.resources
+D:\proyek database\PAD Perpus\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.GenerateResource.Cache
